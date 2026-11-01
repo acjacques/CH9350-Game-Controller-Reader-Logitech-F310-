@@ -5,8 +5,9 @@
    CH9350 TX -> D10
    CH9350 RX -> D11
 
-   Baud CH9350 = 57600 (maximum for SoftwareSerial Arduino Nano
-   Dip switch 2 BA1 = 0
+   Baud CH9350 = 57600 (maximum recomended for SoftwareSerial Arduino Nano)
+   Configuration Dip switch 2 BA1 = 0 .All others = 1
+   Code developed by acjacques. November 2026
 */
 
 #include <SoftwareSerial.h>
