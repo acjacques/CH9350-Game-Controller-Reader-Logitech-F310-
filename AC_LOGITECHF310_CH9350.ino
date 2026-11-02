@@ -7,7 +7,7 @@
 
    Baud CH9350 = 57600 (maximum recomended for SoftwareSerial Arduino Nano)
    Configuration Dip switch 2 BA1 = 0 .All others = 1
-   Code developed by acjacques. November 2026
+   Code developed by acjacques. November 2026 . contact:  acj@infolink.com.br  Whatsapp: 55 21 992148116
 */
 
 #include <SoftwareSerial.h>
