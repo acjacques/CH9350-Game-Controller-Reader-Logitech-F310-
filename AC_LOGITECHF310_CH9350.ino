@@ -124,7 +124,7 @@ void printFrame()
 
   Serial.print(" HAT=");
   Serial.print(pad.HAT);
-  //Serial.print(hatName(pad.HAT));
+  //Serial.print(hatName(pad.HAT));  // uncomment if you want see Hat names
 
   Serial.print(" A=");
   Serial.print(pad.A);
