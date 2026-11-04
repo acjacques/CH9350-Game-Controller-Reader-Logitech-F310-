@@ -1,4 +1,3 @@
-<img width="502" height="363" alt="Captura de tela 2026-11-04 185920" src="https://github.com/user-attachments/assets/b7cc34f6-f094-4d89-9004-274a76286c4e" />
 # CH9350-Game-Controller-Reader-Gamepad Logitech-F310-
 The code allow to read the Gamepad Game Controller like Logitech F310  using the CH9350 Module. Output is thru SerialPort
 Code was write for Arduino Nano + SoftwareSerial but could be easely ported to other processors
@@ -11,3 +10,4 @@ The CH9350 module is highly versatile and can be configured for bidirectional op
 <img width="1420" height="517" alt="Captura de tela 2026-11-01 233557" src="https://github.com/user-attachments/assets/dd5e09ca-efd4-4fd2-946e-135cc9ceb703" />
 <img width="598" height="294" alt="Captura de tela 2026-11-01 233158" src="https://github.com/user-attachments/assets/928c31d0-c812-4260-9f6b-9f2a47d82ddd" />
 <img width="544" height="444" alt="Captura de tela 2026-11-01 232831" src="https://github.com/user-attachments/assets/0998e705-7bb1-4071-82e6-cf043329a175" />
+<img width="502" height="363" alt="Captura de tela 2026-11-04 185920" src="https://github.com/user-attachments/assets/b7cc34f6-f094-4d89-9004-274a76286c4e" />
